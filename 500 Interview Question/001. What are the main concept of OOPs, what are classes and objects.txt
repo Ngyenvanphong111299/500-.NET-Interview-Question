@@ -1,0 +1,25 @@
+The main concept of OOPS is object, class, inheritance, polymorphism, abstraction, and encapsulation.
+A class is a Logical Unit or Blueprint that contains fields, methods, and properties.
+class members are:
+1. Contructor: 
+	- It is a special method that is used to initialize the state of an object.
+	- It is invoked at the time of object creation.
+	- It is a special type of method that has the same name as class name and no return type.
+	- It is used to allocate memory to an object.
+
+2. Fields: 
+	- It is a variable that is declared in a class.
+	- It represents the state of an object.
+	- It is also known as data member.
+
+3. Properties
+	- It is a member that provides a flexible mechanism to read, write, or compute the value of a private field.
+
+4. Methods
+	- It is a block of code that contains a series of statements.
+	- It is a group of statements that are used to perform an operation.
+	- It is executed by calling it from another method.
+
+5. Events
+	- It is a message sent by an object to signal the occurrence of an action.
+	- It is used to provide a user interface.
